@@ -1,0 +1,10 @@
+python -m src.runners.run_heuristics --dataset_name grid --graph_idx 0
+python -m src.runners.run_heuristics --dataset_name grid --graph_idx 1
+python -m src.runners.run_heuristics --dataset_name grid --graph_idx 2
+python -m src.runners.run_heuristics --dataset_name grid --graph_idx 3
+python -m src.runners.run_heuristics --dataset_name grid --graph_idx 4
+python -m src.runners.run_heuristics --dataset_name grid --graph_idx 5
+python -m src.runners.run_heuristics --dataset_name grid --graph_idx 6
+python -m src.runners.run_heuristics --dataset_name grid --graph_idx 7
+python -m src.runners.run_heuristics --dataset_name grid --graph_idx 8
+python -m src.runners.run_heuristics --dataset_name grid --graph_idx 9
