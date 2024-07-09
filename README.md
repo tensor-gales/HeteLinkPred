@@ -31,3 +31,14 @@ Other scripts can be found in /hetelinkpred/shell-scripts-hetelinkpred.
 - ogbl-collab
 - ogbl-citation2
 - E-Commerce
+
+Please following the script below to unzip the synthetic and e-commerce datasets.
+```bash
+# sudo apt-get install p7zip-full # install 7z for ubuntu.
+# brew install p7zip # install 7z for mac
+# For windows, download 7z from https://www.7-zip.org/download.html
+
+cd hetelinkped
+7z x dataset.7z.part.001
+7z x dataset.7z
+```
